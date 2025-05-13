@@ -1,0 +1,30 @@
+2025-04-20 00:03:19: {
+                    "requestId":"5fbd-4f1c-b3c1-b463d28d74d2373653",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid BusinessShortCode"
+                }
+            
+2025-04-20 00:13:57: {
+                    "requestId":"bbe5-4768-b180-ecc931696af08691",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid BusinessShortCode"
+                }
+            
+2025-04-20 00:19:45: {
+                    "requestId":"5b3d-4c11-9598-abb6c87b02ec245986",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid BusinessShortCode"
+                }
+            
+2025-04-20 06:41:25: {
+                    "requestId":"5fbd-4f1c-b3c1-b463d28d74d2382881",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid BusinessShortCode"
+                }
+            
+2025-04-20 07:30:21: {
+                    "requestId":"5fbd-4f1c-b3c1-b463d28d74d2384164",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid CallBackURL"
+                }
+            
